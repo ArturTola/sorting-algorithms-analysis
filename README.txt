@@ -1,6 +1,5 @@
 
-/* ARTUR TOLA
- * CSC 430 , FALL 2019
+
  * PROJECT 1 (SORTING  PROJECT)
 ----------------------------------------------------------------------------
 The classic question “Which sorting algorithm is faster?” does not have an
